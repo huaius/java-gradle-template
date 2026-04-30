@@ -10,6 +10,7 @@ plugins {
     id 'application'
     id 'test-report-aggregation'
     id 'jacoco-report-aggregation'
+    id 'checkstyle'
 }
 
 repositories {
