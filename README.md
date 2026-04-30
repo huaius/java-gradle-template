@@ -24,4 +24,4 @@ https://medium.com/ringcentral-developers/how-to-start-a-new-java-project-withou
 ![image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-
+![image](https://github.com/huaius/java-gradle-template/blob/main/config/images/sample.png?raw=true)
